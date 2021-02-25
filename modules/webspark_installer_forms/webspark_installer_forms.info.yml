@@ -1,0 +1,4 @@
+name: 'Webspark Installer Configure'
+type: module
+description: ''
+core_version_requirement: ^8.8 || ^9

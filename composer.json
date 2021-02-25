@@ -1,0 +1,13 @@
+{
+  "name": "asuwebplatforms/webspark-profile-test",
+  "description": "Custom profle for Webspark 2",
+  "type": "drupal-profile",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Daniela Duarte",
+      "email": "daniela.duarte@deptagency.com"
+    }
+  ],
+  "require": {}
+}
